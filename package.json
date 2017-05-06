@@ -1,6 +1,6 @@
 {
   "name": "iotacss-utils-opacity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opacity utility for iotaCSS",
   "main": "_utilities.opacity.scss",
   "repository": {
